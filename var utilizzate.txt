@@ -1,0 +1,44 @@
+da "uno" a "venti"
+da "quaranta" a "cinquantanove"
+da "sessanta" a "settantanove"
+da "ottantuno" a "novantadue"
+da "venti" a "trentatre"
+donebutton
+donebutton1
+donebutton2
+donebutton3
+donebutton4
+donebutton5
+donebutton6
+donebutton7
+donebutton8
+donebutton9
+donebutton10
+donebutton11
+donebutton12
+donebutton13
+donebutton14
+numberscore
+numberscore1
+numberscoreD
+numberscoreD1
+numberscoreC
+numberscoreC1
+numberscoreE
+numberscoreE1
+numberscoreF
+numberscoreF1
+numberscoreG
+numberscoreG1
+numberscoreF
+numberscoreF1
+score
+scoreA
+scoreD
+scoreC
+scoreB
+scoreE
+scoreF
+scoreG
+truebutton
+truebutton2
